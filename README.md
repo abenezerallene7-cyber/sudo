@@ -42,6 +42,7 @@ The following is a list of examples of the Cybersecurity projects that I am curr
 
 - Password Strength Checker
 - Fake URL Detection Web Application (Flask)
+- log_analyzer project (python)
 - Nmap Automation Script
 - Network Packet Analysis using Wireshark
    
