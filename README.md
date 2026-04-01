@@ -32,7 +32,7 @@ The following are my skills and experience in Cybersecurity:
 Some places that I am currently learning (right now):
     
 - Web Application Penetration Testing
-- Fundamentals on Bugbounty
+- Fundamentals on Bugbounty and Ethical hacking
 - Python for Security Automation
 - Vulnerability Analysis
    
@@ -56,7 +56,7 @@ As I am continuing to learn about Cybersecurity, I have been keeping track of ev
  - Contribute to open-source Cybersecurity projects 
  - Continue improving both my offensive and defensive cybersecurity skills. 
 
-       
+Certifications : https://www.credly.com/users/abenezer-allene/badges#credly      
 Contact me at : abenezerallene7@gmail.com
 Adress : Bahirdar , Ethiopia
      
